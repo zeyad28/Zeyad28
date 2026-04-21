@@ -1,15 +1,21 @@
 <div align="center">
 
-<!-- Typing Header -->
+<!-- Modern Name Header -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Zeyad+Hesham+Emara;Cloud+Architect;DevOps+Engineer;Automation+Expert;Building+Scalable+Systems" />
+<h1 style="font-size:42px; background: linear-gradient(90deg, #00F7FF, #00FFA3); -webkit-background-clip: text; color: transparent;">
+  Zeyad Hesham Emara
+</h1>
+
+<!-- Typing Animation (Cleaner + Faster) -->
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Cloud+Architect;DevOps+Engineer;Automation+Expert;Building+Scalable+Systems" />
 
 <br><br>
 
-<!-- Animated Male Developer Avatar -->
+<!-- NEW Better Male Developer Avatar -->
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"
-style="border-radius:50%; border: 4px solid #00F7FF; box-shadow: 0 0 35px #00F7FF;" />
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="270"
+style="border-radius:50%; border: 4px solid #00F7FF; box-shadow: 0 0 40px #00F7FF;" />
 
 <br><br>
 
@@ -17,7 +23,7 @@ style="border-radius:50%; border: 4px solid #00F7FF; box-shadow: 0 0 35px #00F7F
 
 <h2 style="color:#00F7FF;">☁️ Cloud Architect | ♾️ DevOps Engineer</h2>
 
-<!-- Social Links -->
+<!-- Social -->
 
 <p>
   <a href="https://www.linkedin.com/in/zeyad-emara-443092395">
@@ -32,11 +38,11 @@ style="border-radius:50%; border: 4px solid #00F7FF; box-shadow: 0 0 35px #00F7F
 
 ## 🚀 About Me
 
-```yaml
+```yaml id="ab72d1"
 name: Zeyad Emara
 role: Cloud Architect & DevOps Engineer
-focus: Automation | CI/CD | Infrastructure as Code
-passion: Building scalable & resilient systems
+focus: CI/CD | Automation | Infrastructure as Code
+mission: Build scalable, reliable cloud systems
 ```
 
 ---
@@ -53,8 +59,8 @@ passion: Building scalable & resilient systems
 
 <p align="center">
 <img src="https://img.shields.io/badge/CI/CD-Pipelines-00F7FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Containers-Docker%20%26%20K8s-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/IaC-Ansible-00F7FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Docker-Kubernetes-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Automation-Ansible-00F7FF?style=for-the-badge"/>
 </p>
 
 ---
@@ -84,7 +90,7 @@ passion: Building scalable & resilient systems
 
 <p align="center">
 <b style="color:#00F7FF; font-size:18px;">
-"Automate everything. Scale anything. Break limits."
+"Automate everything. Scale anything. Engineer the future."
 </b>
 </p>
 
@@ -98,8 +104,9 @@ passion: Building scalable & resilient systems
 
 ---
 
-<!-- Footer Wave -->
+<!-- Footer -->
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=150&section=footer"/>
 </p>
+
