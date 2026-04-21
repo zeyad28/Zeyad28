@@ -1,112 +1,48 @@
-<div align="center">
-
-<!-- Modern Name Header -->
-
-<h1 style="font-size:42px; background: linear-gradient(90deg, #00F7FF, #00FFA3); -webkit-background-clip: text; color: transparent;">
-  Zeyad Hesham Emara
-</h1>
-
-<!-- Typing Animation (Cleaner + Faster) -->
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Cloud+Architect;DevOps+Engineer;Automation+Expert;Building+Scalable+Systems" />
-
-<br><br>
-
-<!-- NEW Better Male Developer Avatar -->
-
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="270"
-style="border-radius:50%; border: 4px solid #00F7FF; box-shadow: 0 0 40px #00F7FF;" />
-
-<br><br>
-
-<!-- Title -->
-
-<h2 style="color:#00F7FF;">☁️ Cloud Architect | ♾️ DevOps Engineer</h2>
-
-<!-- Social -->
-
-<p>
-  <a href="https://www.linkedin.com/in/zeyad-emara-443092395">
-    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
-  </a>
-  <img src="https://img.shields.io/badge/Linux-Expert-111111?style=for-the-badge&logo=linux&logoColor=00F7FF"/>
-</p>
-
-</div>
-
----
-
-## 🚀 About Me
-
-```yaml id="ab72d1"
-name: Zeyad Emara
-role: Cloud Architect & DevOps Engineer
-focus: CI/CD | Automation | Infrastructure as Code
-mission: Build scalable, reliable cloud systems
-```
-
----
-
-## 🧠 Core Skills
+# 🚀 Zeyad Hesham Emara | Cloud Architect & DevOps Engineer
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,ansible,linux,python,bash,git" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=200&section=header&text=Zeyad%20Emara&fontSize=70&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/zeyad-emara-443092395/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:zeyad.emara.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-## ⚡ DevOps Stack
+### 👨‍💻 Summary
+Expertise in building scalable, automated cloud infrastructures. Currently diving deep into the **AWS Ecosystem** and **Kubernetes** to streamline deployment pipelines and enhance system reliability.
 
-<p align="center">
-<img src="https://img.shields.io/badge/CI/CD-Pipelines-00F7FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Docker-Kubernetes-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Automation-Ansible-00F7FF?style=for-the-badge"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/zeyad28/zeyad28/blob/output/github-contribution-grid-snake.svg" />
-</p>
+- 🏗️ **Infrastructure:** Designing high-availability architectures.
+- ⚙️ **Automation:** Advanced CI/CD using GitHub Actions and Jenkins.
+- ⚡ **Philosophy:** "Automate everything. Scale anything. Engineer the future."
 
 ---
 
-## 📊 GitHub Stats
+### 🛠️ Tech Stack & Skills
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeyad28&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeyad28&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeyad28&theme=tokyonight&hide_border=true&background=0D1117" />
-</p>
-
----
-
-## 💡 Dev Philosophy
-
-<p align="center">
-<b style="color:#00F7FF; font-size:18px;">
-"Automate everything. Scale anything. Engineer the future."
-</b>
-</p>
+| Category | Tools |
+| :--- | :--- |
+| **Cloud Computing** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws) ![Route53](https://img.shields.io/badge/Route53-FF9900?style=flat-square&logo=amazons3) ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2) |
+| **DevOps & CI/CD** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins) |
+| **Containers** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes) |
+| **IaC & Config** | ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible) |
+| **Scripting** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) ![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnu-bash) |
 
 ---
 
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zeyad28&color=00F7FF&style=flat-square" />
+### 📊 GitHub Stats & Performance
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zeyad28&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeyad28&layout=compact&theme=tokyonight" />
 </p>
+
+### 🐍 Contribution Activity
+![Snake animation](https://github.com/zeyad28/zeyad28/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-<!-- Footer -->
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=150&section=footer"/>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=zeyad28&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="zeyad28" />
 </p>
-
