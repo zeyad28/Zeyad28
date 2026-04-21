@@ -27,10 +27,10 @@
 
 ### 📤 Contact & Social
 <p align="left">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:zeyademara828@gmail.com">
     <img src="https://github.com/user-attachments/assets/1a97a051-cc24-4738-a7a2-3f53365a9e93" height="35" alt="Gmail"/>
   </a>&nbsp;
-  <a href="https://www.linkedin.com/in/zeyad-emara" target="_blank">
+  <a href="https://www.linkedin.com/in/zeyad-emara-443092395/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45" alt="LinkedIn"/>
   </a>&nbsp;
 </p>
@@ -46,7 +46,7 @@
 
 #### 💻 Programming & Scripting  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,bash,js,cpp" height="40" />
+  <img src="https://skillicons.dev/icons?i=py,bash,js" height="40" />
 </p>
 
 ---
