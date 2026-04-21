@@ -1,69 +1,63 @@
 <div align="center">
 
-# 👨‍💻 Eng. Zeyad Emara
-### 🚀 DevOps & Cloud Solutions Architect
+# 💫 Eng. Zeyad Emara
+### 🚀 DevOps & Cloud Solutions Engineer | Founder of Coder Zone Academy
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zeyad-emara-443092395)
+<br>
+[![](https://komarev.com/ghpvc/?username=zeyad28&icon=eye&color=blue&style=flat-square)](https://visitcount.itsvg.in)
 
 ---
 
-"Transforming complex infrastructures into automated, scalable, and secure cloud environments."
+"Architecting scalable cloud solutions and automating the future, one pipeline at a time."
 
-[**LinkedIn Profile**](https://www.linkedin.com/in/zeyad-emara-443092395) • [**Location: Abu Hummus, Egypt**](https://google.com/maps)
-
----
 </div>
 
-## 🛠 Tech Stack Portfolio
-
-### ☁️ Cloud Infrastructure (AWS)
-* **Solutions Architect:** Designing resilient architectures.
-* **Core Services:** VPC, EC2, S3, Route 53, IAM.
-* **Specialty:** Cloud Foundations & Security Hardening.
-
-### ♾️ DevOps & Automation
-* **Orchestration:** Kubernetes (K8s) & Docker Containerization.
-* **Automation:** Ansible Configuration Management.
-* **Scripting:** Advanced Python for DevOps tooling.
-
-### 🐧 Linux Ecosystem
-* **Power User:** Ubuntu (Server), Zorin OS (Productivity).
-* **Security:** Kali Linux (Pentesting & Security Audits).
+## 📖 About Me
+- 🔭 **Currently Working on:** Advanced AWS Cloud Infrastructure & CI/CD Pipelines.
+- 👯 **Looking to Collaborate:** Open Source DevOps tools & Cloud Automation projects.
+- 🤝 **Seeking Expertise:** Mastering complex Kubernetes orchestration patterns.
+- 🌱 **Continuous Learning:** Ansible, Docker, and Security hardening on Linux (Kali/Ubuntu).
+- 💬 **Ask Me About:** Cloud Computing, Python Automation, or starting a Tech Academy.
+- ⚡ **Fun Fact:** Managing **Draa Bayez** Gaming Center while building Cloud architectures!
 
 ---
 
-## 💼 Ventures & Leadership
-* 🎓 **Founder at Coder Zone Academy:** Mentoring the next generation of Python developers.
-* 🎮 **Founder of Draa Bayez:** Merging tech management with local gaming entertainment.
+## 🛠 Tech Stack
+
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+
+### ♾️ DevOps & Containers
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### 🐍 Scripting & OS
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 📊 My GitHub Journey
+## 📊 GitHub Ecosystem
+
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.shion.dev/api?username=zeyad28&theme=ayu-mirage&show_icons=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=zeyad28&theme=ayu-mirage&layout=compact" width="40%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=zeyad28&theme=ayu-mirage" width="100%" />
+</p>
+
+### 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zeyad28&theme=radical&no-frame=false&margin-w=4" />
 </p>
 
 ---
 
 <div align="center">
 
-### 📫 Let's Connect
+### ✍️ Thought of the Day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeyad-emara-443092395)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/YOUR_PHONE_NUMBER)
-
+*"Building systems that last, at the speed of light."*
 </div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
-</p>
