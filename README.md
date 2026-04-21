@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp6em56em56em56em56em56em56em56em56em56em56em56em56JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L3uS9U0U6Jv6GfT9XW/giphy.gif" width="45"> [SYSTEM_INIT] | ZEYAD EMARA
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=050510&height=320&section=header&text=ZEYAD%20EMARA&fontSize=110&animation=glitch&fontColor=00ffc8&desc=CLOUD%20ARCHITECT%20%E2%9A%99%EF%B8%8F%20DEVOPS%20ENGINEER&descAlignY=72&descSize=24&stroke=ff00aa&strokeWidth=1" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=050510&height=350&section=header&text=ZEYAD%20EMARA&fontSize=130&fontAlignY=35&animation=fadeIn&fontColor=00ffc8&desc=CLOUD%20ARCHITECT%20%E2%9A%99%EF%B8%8F%20DEVOPS%20ENGINEER&descAlignY=65&descSize=24&stroke=ff00aa&strokeWidth=1" width="100%"/>
 </p>
 
 <p align="center">
@@ -38,10 +38,6 @@
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zeyad28&show_icons=true&theme=tokyonight&hide_border=false&title_color=00ffc8&icon_color=ff00aa&bg_color=050510&border_color=1a1a3e" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=zeyad28&theme=tokyonight&hide_border=false&stroke=00ffc8&ring=ff00aa&background=050510&border=1a1a3e" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zeyad28&theme=tokyonight" />
 </p>
 
 ---
