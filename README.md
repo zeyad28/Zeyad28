@@ -1,66 +1,85 @@
-<h1 align="center">Hi, I'm Zeyad Emara 👋</h1>
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVndndvNnJ4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHgmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/3o7TKSjPZOJOTF72pG/giphy.gif" width="35"> ENG ZEYAD EMARA
 
-<h2 align="center">Cloud & DevOps Engineer</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=050510&height=250&section=header&text=ENG%20Zeyad%20Emara&fontSize=80&animation=fadeIn&fontColor=00ffc8&desc=CLOUD%20ARCHITECT%20|%20DEVOPS%20ENGINEER&descAlignY=70&descSize=24&stroke=ff00aa&strokeWidth=1" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/Neon_Line.gif" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CLOUD-ARCHITECT-00ffc8?style=for-the-badge&logo=amazon-aws&logoColor=black" />
+  <img src="https://img.shields.io/badge/DEVOPS-ENGINEER-ff00aa?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/EXPERTISE-EXPERT-ffcc00?style=for-the-badge&logo=statuspage&logoColor=black" />
+</p>
+
+---
+
+### 🟢 CORE SKILLS & TECH STACK
+
 <br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20👋;I%20am%20Zeyad%20Emara;Cloud%20%26%20DevOps%20Engineer;AWS%20Solutions%20Architect;Always%20Automating%20Everything&font=Bold%20Code&center=true&color=30F050&vCenter=true&width=435&height=50&pause=2000" alt="Typing SVG"/>
-</p>
-
----
-
-### 🚀 About Me
-- 🎓 **Engineering Student** with a passion for Infrastructure and Cloud solutions.
-- 💻 **Cloud & DevOps Engineer** focused on building scalable, high-availability systems on **AWS**.
-- 🛠️ Deeply interested in **Infrastructure as Code (IaC)**, CI/CD pipelines, and Containerization.
-- 🤝 Open to collaborating on **DevOps** projects and open-source cloud tools.
-- ⚡ Always exploring new technologies to optimize performance and reduce costs.
-
----
-<p align="center">
-  <a href="https://github.com/zeyad28" target="_blank">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=zeyad28.zeyad28&left_color=blue&right_color=yellow&style=flat-square" alt="Profile Visitors" />
-  </a>
-</p>
-
----
-
-### 📤 Contact & Social
+#### ☁️ [01] CLOUD_PLATFORMS
 <p align="left">
-  <a href="mailto:zeyademara828@gmail.com">
-    <img src="https://github.com/user-attachments/assets/1a97a051-cc24-4738-a7a2-3f53365a9e93" height="35" alt="Gmail"/>
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/zeyad-emara-443092395/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45" alt="LinkedIn"/>
-  </a>&nbsp;
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
 </p>
+<table style="width: 100%; border: none; background: transparent;"><tr>
+  <td><img src="https://img.shields.io/badge/AWS-Expert-00ffc8?style=flat-square&logo=amazon-aws" /></td>
+  <td><img src="https://img.shields.io/badge/Azure-Advanced-00ffc8?style=flat-square&logo=microsoft-azure" /></td>
+  <td><img src="https://img.shields.io/badge/GCP-Advanced-00ffc8?style=flat-square&logo=google-cloud" /></td>
+</tr></table>
+
+<br>
+
+#### ⚙️ [02] DEVOPS & CI/CD
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,jenkins,gitlab" />
+</p>
+<table style="width: 100%; border: none; background: transparent;"><tr>
+  <td><img src="https://img.shields.io/badge/Docker-Expert-ff00aa?style=flat-square&logo=docker" /></td>
+  <td><img src="https://img.shields.io/badge/Kubernetes-Expert-ff00aa?style=flat-square&logo=kubernetes" /></td>
+  <td><img src="https://img.shields.io/badge/CI/CD-Advanced-ff00aa?style=flat-square&logo=github-actions" /></td>
+</tr></table>
+
+<br>
+
+#### 🏗️ [03] INFRASTRUCTURE_AS_CODE
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=terraform,ansible,pulumi" />
+</p>
+<table style="width: 100%; border: none; background: transparent;"><tr>
+  <td><img src="https://img.shields.io/badge/Terraform-Expert-ffcc00?style=flat-square&logo=terraform" /></td>
+  <td><img src="https://img.shields.io/badge/Ansible-Advanced-ffcc00?style=flat-square&logo=ansible" /></td>
+  <td><img src="https://img.shields.io/badge/Pulumi-Fluent-ffcc00?style=flat-square&logo=pulumi" /></td>
+</tr></table>
 
 ---
 
-### 🛠️ Languages & Tools
-
-#### ☁️ Cloud & DevOps  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,terraform,ansible,jenkins,githubactions" height="40" />
-</p>
-
-#### 💻 Programming & Scripting  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,bash,go" height="40" />
-</p>
-
----
-
-### 📊 GitHub Stats & Most Used Languages
+### 📊 GITHUB_REALTIME_ANALYTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeyad28&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeyad28&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="165" alt="Most Used Languages"/>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=zeyad28&show_icons=true&theme=tokyonight&hide_border=false&title_color=00ffc8&icon_color=ff00aa&bg_color=050510&border_color=1a1a3e" />
 </p>
 
 ---
 
+### 🐍 CONTRIBUTION_FLOW
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zeyad28/zeyad28/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+  <img src="https://platane.github.io/snk/github-contribution-grid-snake.svg?user=zeyad28&palette=github-dark" alt="Snake Animation" />
 </p>
 
+---
+
+### 🌐 CONNECT_STATION
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/zeyad-emara-443092395/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:zeyad.emara.dev@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=zeyad28&color=00ffc8&style=flat-square&label=VISITOR_ID" align="right" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/Neon_Line.gif" width="100%">
+</p>
