@@ -1,7 +1,7 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHUndndvNnJ4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHgmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/3o7TKSjPZOJOTF72pG/giphy.gif" width="35"> ZEYAD EMARA
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVndndvNnJ4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHgmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/3o7TKSjPZOJOTF72pG/giphy.gif" width="35"> ENG ZEYAD EMARA
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=050510&height=250&section=header&text=Zeyad%20Hesham%20Emara&fontSize=80&animation=fadeIn&fontColor=00ffc8&desc=CLOUD%20ARCHITECT%20|%20DEVOPS%20ENGINEER&descAlignY=70&descSize=24&stroke=ff00aa&strokeWidth=1" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=050510&height=250&section=header&text=ENG%20Zeyad%20Emara&fontSize=80&animation=fadeIn&fontColor=00ffc8&desc=CLOUD%20ARCHITECT%20|%20DEVOPS%20ENGINEER&descAlignY=70&descSize=24&stroke=ff00aa&strokeWidth=1" width="100%"/>
 </p>
 
 <p align="center">
@@ -52,18 +52,6 @@
   <td><img src="https://img.shields.io/badge/Terraform-Expert-ffcc00?style=flat-square&logo=terraform" /></td>
   <td><img src="https://img.shields.io/badge/Ansible-Advanced-ffcc00?style=flat-square&logo=ansible" /></td>
   <td><img src="https://img.shields.io/badge/Pulumi-Fluent-ffcc00?style=flat-square&logo=pulumi" /></td>
-</tr></table>
-
-<br>
-
-#### 🐍 [04] LANGUAGES_&_SCRIPTING
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,bash,go,yaml,json" />
-</p>
-<table style="width: 100%; border: none; background: transparent;"><tr>
-  <td><img src="https://img.shields.io/badge/Python-Expert-00aaff?style=flat-square&logo=python" /></td>
-  <td><img src="https://img.shields.io/badge/Bash-Expert-00aaff?style=flat-square&logo=gnu-bash" /></td>
-  <td><img src="https://img.shields.io/badge/Yaml/Json-Native-00aaff?style=flat-square&logo=json" /></td>
 </tr></table>
 
 ---
