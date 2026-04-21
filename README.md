@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C3E50&center=true&vCenter=true&width=435&lines=Zeyad+Emara;Eng.+Zeyad+Emara;Cloud+Architect;DevOps+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C3E50&center=true&vCenter=true&width=500&lines=Zeyad+Adel+Emara;زياد+عادل+عمارة;Eng.+Zeyad+Emara;Cloud+Architect;DevOps+Engineer" />
 
   <br>
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnVsdmFrNDMxNGNqZGRreWFkbWN5OHlnZ3F3eTJ1cXg3OHgwMm44ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Developer GIF" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHlxNnU5M3U4ZXp5YTN0ZndwZTZ5azhnZTN4Z203YjIydndhZW5ybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Male Developer GIF" width="300"/>
 
   <br>
 
@@ -54,23 +54,3 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zeyad28&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeyad28&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeyad28&theme=tokyonight&hide_border=true&background=0D1117" width="100%" />
-</p>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-  <br>
-  <sub><b>"Automate the boring stuff, architect the future."</b></sub>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=zeyad28&color=blueviolet&style=flat-square" />
-</div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
-</p>
