@@ -1,5 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Eng.%20Zeyad%20Emara&fontSize=50&animation=fadeIn" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C3E50&center=true&vCenter=true&width=435&lines=Zeyad+Emara;Eng.+Zeyad+Emara;Cloud+Architect;DevOps+Engineer" />
+
+  <br>
+
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnVsdmFrNDMxNGNqZGRreWFkbWN5OHlnZ3F3eTJ1cXg3OHgwMm44ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Developer GIF" width="300"/>
+
+  <br>
 
   ### ☁️ Cloud Architect | ♾️ DevOps Engineer
   
