@@ -1,7 +1,11 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVndndvNnJ4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHgmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/3o7TKSjPZOJOTF72pG/giphy.gif" width="35"> [CONSOLE_ACCESS_GRANTED]
+# <img src="https://media.giphy.com/media/3o7TKSjPZOJOTF72pG/giphy.gif" width="35"> [SYSTEM_ACCESS_GRANTED]
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=050510&height=180&section=header&text=Zeyad%20Emara&fontSize=60&animation=fadeIn&fontColor=00ffc8&desc=Cloud%20Architect%20|%20DevOps%20Engineer&descAlignY=70&descSize=20&stroke=ff00aa&strokeWidth=1" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,100:0a0a2a&height=220&section=header&text=Z%20E%20Y%20A%20D%20%20E%20M%20A%20R%20A&fontSize=55&animation=fadeIn&fontColor=00ffc8&desc=DevOps%20Engineer%20%7C%20Cloud%20Automation%20Specialist&descAlignY=70&descSize=18&stroke=ff00aa&strokeWidth=1.2" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Initializing+System...;Deploying+Cloud+Infrastructure...;Automating+Everything...;Welcome+to+my+DevOps+World+🚀&center=true&width=600&height=45&color=00ffc8">
 </p>
 
 <p align="center">
@@ -10,38 +14,11 @@
 
 ---
 
-### 🖥️ SYSTEM_PROFILE
-* **Identity**: Zeyad Emara
-* **Role**: Engineering Student & DevOps Enthusiast
-* **Focus**: AWS Ecosystem (EC2, S3, IAM)
-* **Status**: `MIGRATING_TO_NETHERLANDS` 🇳🇱
+## 🖥️ SYSTEM_PROFILE
 
----
-
-### 🛠️ TECH_STACK (INFRASTRUCTURE AS CODE)
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,githubactions,linux,python,bash,git,nginx,grafana,prometheus" />
-</p>
-
----
-
-### 📊 REAL-TIME_METRICS
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=zeyad28&show_icons=true&theme=tokyonight&hide_border=false&title_color=00ffc8&icon_color=ff00aa&bg_color=050510&border_color=1a1a3e" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeyad28&layout=compact&theme=tokyonight&hide_border=false&bg_color=050510&border_color=1a1a3e&title_color=ff00aa" />
-</p>
-
----
-
-### 🌐 CONNECT_STATION
-<p align="center">
-  <a href="https://www.linkedin.com/in/zeyad-emara-443092395/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:zeyad.emara.dev@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=zeyad28&color=00ffc8&style=flat-square&label=VISITOR_ID" />
-</p>
+```bash
+> user: zeyad_emara
+> role: DevOps Engineer (in progress)
+> focus: AWS | Kubernetes | Automation
+> status: looking_for_internship
+> location: Egypt → Netherlands 🇳🇱
