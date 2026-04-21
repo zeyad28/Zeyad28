@@ -39,14 +39,14 @@
 
 ### 🛠️ Languages & Tools
 
-#### ☁️ Cloud & DevOps  
+#### ☁️ Cloud & DevOps  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,terraform,ansible,jenkins,githubactions" height="40" />
 </p>
 
-#### 💻 Programming & Scripting  
+#### 💻 Programming & Scripting  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,bash,js" height="40" />
+  <img src="https://skillicons.dev/icons?i=py,bash,go" height="40" />
 </p>
 
 ---
@@ -63,3 +63,4 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/zeyad28/zeyad28/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 </p>
+
